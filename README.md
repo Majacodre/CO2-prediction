@@ -1,2 +1,4 @@
 # CO2-prediction
-This project uses satelite images and machine learning to predict CO2 levels in the Netherlands
+This project aims to predict CO2 emissions in the Netherlands, the following methods are explored:
+- ARIMA_model.ipynb: ARIMA model for forecasting, it provides a baseline model for further forecasting methods.
+
